@@ -6,4 +6,4 @@
 	url = https://github.com/albertodemichelis/squirrel.git
 [submodule "wren"]
 	path = wren
-	url = git@github.com:wren-lang/wren.git
+	url = https://github.com/wren-lang/wren.git
