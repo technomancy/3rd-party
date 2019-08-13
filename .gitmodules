@@ -10,3 +10,6 @@
 [submodule "duktape"]
 	path = duktape
 	url = https://github.com/svaarala/duktape-releases.git
+[submodule "sdl2"]
+	path = sdl2
+	url = https://github.com/SDL-mirror/SDL.git
