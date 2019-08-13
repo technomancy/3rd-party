@@ -7,3 +7,6 @@
 [submodule "wren"]
 	path = wren
 	url = https://github.com/wren-lang/wren.git
+[submodule "duktape"]
+	path = duktape
+	url = https://github.com/svaarala/duktape-releases.git
