@@ -13,6 +13,3 @@
 [submodule "sdl2"]
 	path = sdl2
 	url = https://github.com/SDL-mirror/SDL.git
-[submodule "curl"]
-	path = curl
-	url = https://github.com/curl/curl.git
