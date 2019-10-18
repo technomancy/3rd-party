@@ -34,3 +34,6 @@
 [submodule "lpeg"]
 	path = lpeg
 	url = https://github.com/nesbox/lpeg.git
+[submodule "giflib"]
+	path = giflib
+	url = https://github.com/nesbox/giflib.git
