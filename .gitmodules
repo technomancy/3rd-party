@@ -16,3 +16,6 @@
 [submodule "curl"]
 	path = curl
 	url = https://github.com/nesbox/curl.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
