@@ -34,3 +34,6 @@
 [submodule "lua"]
 	path = lua
 	url = https://github.com/lua/lua.git
+[submodule "lpeg"]
+	path = lpeg
+	url = https://github.com/nesbox/lpeg.git
