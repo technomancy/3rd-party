@@ -28,3 +28,6 @@
 [submodule "sdl-gpu"]
 	path = sdl-gpu
 	url = https://github.com/grimfang4/sdl-gpu.git
+[submodule "dirent"]
+	path = dirent
+	url = https://github.com/tronkko/dirent.git
