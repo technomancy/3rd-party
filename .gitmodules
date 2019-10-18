@@ -31,3 +31,6 @@
 [submodule "dirent"]
 	path = dirent
 	url = https://github.com/tronkko/dirent.git
+[submodule "lua"]
+	path = lua
+	url = https://github.com/lua/lua.git
