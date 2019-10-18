@@ -25,3 +25,6 @@
 [submodule "giflib"]
 	path = giflib
 	url = https://git.code.sf.net/p/giflib/code
+[submodule "sdl-gpu"]
+	path = sdl-gpu
+	url = https://github.com/grimfang4/sdl-gpu.git
