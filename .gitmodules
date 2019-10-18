@@ -22,3 +22,6 @@
 [submodule "blip-buf"]
 	path = blip-buf
 	url = https://github.com/nesbox/blip-buf.git
+[submodule "giflib"]
+	path = giflib
+	url = https://git.code.sf.net/p/giflib/code
