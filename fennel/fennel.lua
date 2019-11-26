@@ -2853,7 +2853,6 @@ do
         -- otherwise this can be problematic when loading fennel in contexts
         -- where _G is an empty table with an __index metamethod. (openresty)
         allowedGlobals = false,
-        useMetadata = true,
         filename = "built-ins",
         moduleName = moduleName,
     })) do
